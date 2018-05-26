@@ -2,8 +2,8 @@ cover
 frontmatter:
 maketitle
 tableofcontents
-preface.md
+Introduction.md
 mainmatter:
-a_chapter.md
-another_chapter.md
-yet_another_chapter.md
+Consumer_Theory_1.md
+Consumer_Theory_2.md
+Consumer_Theory_3.md
