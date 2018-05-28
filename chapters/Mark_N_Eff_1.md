@@ -72,7 +72,7 @@ NOTE: Possibility that the sudden influx of firms may also cause for the input c
 NOTE: Possibility that the ATC goes down as the resouce to create the product now costs less because there are less firms. Which could have easily shifted the ATC to the beginning price which would in turn have changed the price to be P2 < P1.
 
 
-## Positive Supply Shock
+### Positive Supply Shock
 
 - A positive supply shock may be the result when an individual firm or industry suddenly discovers new technology or something like that would increase the supply for something...
 
