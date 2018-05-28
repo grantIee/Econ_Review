@@ -15,3 +15,5 @@ Mark_N_Eff_1.md
 Mark_N_Eff_2.md
 Industrial_Organization_1.md
 Industrial_Organization_2.md
+Extensions_1.md
+Question_Bank_1.md

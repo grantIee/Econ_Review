@@ -49,7 +49,7 @@
 
 - Setting MR(q) = MC(q) yields {$$} q^{CARTEL} = 40 {/$$}
 
-- Profits: {$$} 60 /cdot 20 - 20 \cdot 20 = 800 {/$$}
+- Profits: {$$} 60 \cdot 20 - 20 \cdot 20 = 800 {/$$}
 
 
 **CHEATING**
@@ -73,9 +73,9 @@
 
 -Total Quantity: {$$} q = q_A + q_B = \frac{160}{3} {/$$}
 
--Market Price is {$$} p(q) = 100 - \frac{160}{3} = \frac{140}{3}
+-Market Price is {$$} p(q) = 100 - \frac{160}{3} = \frac{140}{3} {/$$}
 
--Firm i's profits are {$$} q_i \cdot p(q) - 20q_i = \frac{80}{3}(\frac{140}{3} - 20) = \frac{6400}{9}
+-Firm i's profits are {$$} q_i \cdot p(q) - 20q_i = \frac{80}{3}(\frac{140}{3} - 20) = \frac{6400}{9} {/$$}
 
 
 *Remember an oligopoly is not only 2 firms. They may just as well have 4,5, or any number that is at least 2.*
