@@ -13,3 +13,5 @@ Producer_Theory_2.md
 Producer_Theory_3.md
 Mark_N_Eff_1.md
 Mark_N_Eff_2.md
+Industrial_Organization_1.md
+Industrial_Organization_2.md
