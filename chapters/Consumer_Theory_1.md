@@ -65,13 +65,13 @@ This means that there must be some mixture of the good and bad options that's eq
 *This may be problematic because there are times when there is no probability that would allow for individuals to be indifferent to the middle option. In the case that death is the worst case scenario, then most individuals would have a hard time deciding a probability in any situation.*
 
 
-4. The relationship must be **Independence**
+4. The relationship must be **Independent**
 
 
 This means that if you prefer, say, M to L, then you should also prefer a lottery over M and any other thing to a lottery over L and that same other thing.
 
 
-*This may be problematic because it is based on a weak assumption and can be violated at times. *
+*This may be problematic because it is based on a weak assumption and can be violated at times.*
 
 
 ### The Utility Function
